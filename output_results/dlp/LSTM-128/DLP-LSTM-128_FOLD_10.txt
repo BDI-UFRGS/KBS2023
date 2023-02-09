@@ -1,0 +1,88 @@
+                              precision    recall  f1-score   support
+
+            abstract quality       1.00      0.50      0.67         2
+             abstract region       0.75      0.43      0.55         7
+                    activity       0.83      0.74      0.78       663
+           agent driven role       0.60      0.67      0.63         9
+             agentive figure       0.75      0.81      0.78       164
+    agentive physical object       0.92      0.98      0.95      2082
+            amount of matter       0.89      0.82      0.85       226
+           biological object       0.83      0.87      0.85       362
+                 causal role       0.60      0.50      0.55        12
+             chemical object       0.85      0.65      0.73        17
+       classification system       0.60      0.38      0.46         8
+             cognitive event       0.70      0.69      0.70       163
+ cognitive modal description       0.48      0.46      0.47        24
+             cognitive state       0.75      0.40      0.52        15
+                  collection       0.00      0.00      0.00         2
+             collection role       0.00      0.00      0.00         1
+        combinatorial system       1.00      0.50      0.67         2
+               commerce role       1.00      0.50      0.67         4
+        communication method       0.00      0.00      0.00         2
+                      course       0.64      0.57      0.60        81
+             dependent place       0.66      0.69      0.67        48
+            description role       0.00      0.00      0.00         3
+       ecological collective       0.25      0.17      0.20         6
+                       event       0.64      0.75      0.69        81
+           functional matter       0.76      0.89      0.82       578
+          genetic collective       0.71      0.56      0.63         9
+         geographical object       0.86      0.83      0.84        81
+                     gestalt       0.73      0.69      0.71        16
+                        goal       0.00      0.00      0.00         3
+ information encoding system       0.69      0.46      0.55        24
+          information object       0.72      0.73      0.72       125
+     information realization       0.78      0.74      0.76       292
+      intentional collective       0.50      0.77      0.61        13
+                    language       0.81      0.92      0.86       115
+     legal possession entity       0.83      0.86      0.84        22
+               locative role       0.75      0.69      0.72       144
+               mental object       0.00      0.00      0.00         1
+                      method       0.50      0.33      0.40         3
+non agentive physical object       0.76      0.65      0.70       208
+     non physical collection       0.62      0.68      0.65        71
+          non physical place       1.00      0.67      0.80        12
+        organized collection       0.50      0.53      0.51        19
+        organized collective       0.00      0.00      0.00         1
+                   parameter       0.63      0.54      0.58        82
+     parametrized collection       0.00      0.00      0.00         1
+                  phenomenon       0.85      0.69      0.77       200
+               physical body       0.89      0.59      0.71        27
+             physical object       0.84      0.86      0.85      1026
+            physical quality       0.33      0.50      0.40         2
+             physical region       0.58      0.54      0.56        13
+                        plan       0.67      0.31      0.42        13
+ political geographic object       0.85      0.92      0.88       128
+                    practice       0.33      0.24      0.28        17
+            qualitative role       0.54      0.52      0.53        56
+                     quality       0.77      0.81      0.78       467
+                      region       0.88      0.84      0.86       208
+                  regulation       0.89      0.57      0.70        14
+                    relation       0.73      0.69      0.71        51
+               relevant part       0.51      0.47      0.49        58
+                         set       0.50      0.67      0.57         3
+           simple collection       0.75      0.71      0.73        21
+           simple collective       0.40      0.84      0.55        25
+   simple planned collective       0.62      0.51      0.56        39
+                   situation       0.74      0.78      0.76       734
+         social relationship       0.67      0.25      0.36        16
+                 social role       0.78      0.68      0.73        47
+ socially constructed person       0.96      0.94      0.95      1051
+                space region       0.63      0.65      0.64        51
+             spatial feature       0.76      0.71      0.73        86
+                       state       0.53      0.53      0.53        19
+                      status       0.53      0.43      0.48        23
+                     subject       0.96      0.82      0.89        62
+              substance role       0.83      0.59      0.69        34
+              symmetric role       0.00      0.00      0.00         1
+       system as description       0.60      0.67      0.63         9
+                        task       0.38      0.70      0.49        23
+        taxonomic collection       0.80      0.80      0.80        10
+        taxonomic collective       0.98      0.89      0.94      1095
+                   technique       0.62      0.73      0.67        41
+             temporal region       0.76      0.82      0.79       119
+                        text       0.47      0.73      0.57        11
+                      theory       0.67      0.40      0.50        15
+
+                    accuracy                           0.83     11619
+                   macro avg       0.63      0.57      0.59     11619
+                weighted avg       0.83      0.83      0.83     11619

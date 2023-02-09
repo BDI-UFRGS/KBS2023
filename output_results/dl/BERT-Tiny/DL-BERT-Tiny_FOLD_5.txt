@@ -1,0 +1,24 @@
+                            precision    recall  f1-score   support
+
+          abstract quality       0.00      0.00      0.00         2
+           abstract region       0.33      0.83      0.48         6
+            accomplishment       0.55      0.80      0.65       870
+          amount of matter       0.74      0.91      0.81       852
+           dependent place       0.24      0.82      0.37        50
+                     event       0.37      0.82      0.51       244
+       non physical object       0.85      0.46      0.60      4445
+           physical object       0.82      0.96      0.89      3784
+          physical quality       0.08      1.00      0.15         2
+           physical region       0.26      0.46      0.33        13
+                   quality       0.75      0.78      0.76       490
+                    region       0.83      0.89      0.86       207
+             relevant part       0.69      0.66      0.67       145
+                       set       0.00      0.00      0.00         3
+              space region       0.35      0.63      0.45        52
+spatio temporal particular       0.43      0.78      0.55       302
+                     state       0.67      0.71      0.69        34
+           temporal region       0.84      0.90      0.87       120
+
+                  accuracy                           0.73     11621
+                 macro avg       0.49      0.69      0.54     11621
+              weighted avg       0.78      0.73      0.72     11621
